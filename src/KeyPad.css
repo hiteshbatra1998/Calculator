@@ -1,0 +1,27 @@
+.main-div{
+    height:100vh;
+}
+.but{
+    height:85vh;
+    display: flex;
+    flex-direction: row;
+}
+.answer{
+    height: 15vh;
+    background-color: #858694;
+    color:white;
+    text-align: right;
+    font-size: 75px;
+}
+.operand{
+    width:80vw;
+    height: 100%;;
+}
+.operator{
+    width:20vw;
+    height:100%;
+}
+.ope{
+    width:100%;
+    height: 20%;
+}
